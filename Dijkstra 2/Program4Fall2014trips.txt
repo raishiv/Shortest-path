@@ -1,0 +1,10 @@
+# TRIPS
+
+# number of trips to analyze
+4
+
+# the trips
+0 8 D
+1 8 T
+2 7 T
+12 14 D

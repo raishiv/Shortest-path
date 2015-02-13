@@ -1,0 +1,25 @@
+# LOCATIONS
+
+# number of locations
+15
+
+# intersections
+1st St & 101st Ave
+1st St & 102nd Ave
+1st St & 103rd Ave
+2nd St & 101st Ave
+2nd St & 102nd Ave
+2nd St & 103rd Ave
+3rd St & 101st Ave
+3rd St & 102nd Ave
+3rd St & 103rd Ave
+
+# Freeway North locations
+I-94 North @ 101st Ave
+I-94 North @ 102nd Ave
+I-94 North @ 103rd Ave
+
+# Freeway South locations
+I-94 South @ 101st Ave
+I-94 South @ 102nd Ave
+I-94 South @ 103rd Ave
